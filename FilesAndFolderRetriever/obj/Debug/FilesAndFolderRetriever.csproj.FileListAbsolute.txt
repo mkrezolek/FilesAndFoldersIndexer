@@ -1,0 +1,16 @@
+\\Client\L$\CSharp - Repos\FilesAndFolderRetriever\FilesAndFolderRetriever\obj\Debug\FilesAndFolderRetriever.csprojAssemblyReference.cache
+\\Client\L$\CSharp - Repos\FilesAndFolderRetriever\FilesAndFolderRetriever\obj\Debug\MainWindow.g.cs
+\\Client\L$\CSharp - Repos\FilesAndFolderRetriever\FilesAndFolderRetriever\obj\Debug\App.g.cs
+\\Client\L$\CSharp - Repos\FilesAndFolderRetriever\FilesAndFolderRetriever\obj\Debug\FilesAndFolderRetriever_MarkupCompile.cache
+\\Client\L$\CSharp - Repos\FilesAndFolderRetriever\FilesAndFolderRetriever\obj\Debug\FilesAndFolderRetriever_MarkupCompile.lref
+\\Client\L$\CSharp - Repos\FilesAndFolderRetriever\FilesAndFolderRetriever\bin\Debug\FilesAndFolderRetriever.exe.config
+\\Client\L$\CSharp - Repos\FilesAndFolderRetriever\FilesAndFolderRetriever\bin\Debug\FilesAndFolderRetriever.exe
+\\Client\L$\CSharp - Repos\FilesAndFolderRetriever\FilesAndFolderRetriever\bin\Debug\FilesAndFolderRetriever.pdb
+\\Client\L$\CSharp - Repos\FilesAndFolderRetriever\FilesAndFolderRetriever\obj\Debug\MainWindow.baml
+\\Client\L$\CSharp - Repos\FilesAndFolderRetriever\FilesAndFolderRetriever\obj\Debug\FilesAndFolderRetriever.g.resources
+\\Client\L$\CSharp - Repos\FilesAndFolderRetriever\FilesAndFolderRetriever\obj\Debug\FilesAndFolderRetriever.Properties.Resources.resources
+\\Client\L$\CSharp - Repos\FilesAndFolderRetriever\FilesAndFolderRetriever\obj\Debug\FilesAndFolderRetriever.csproj.GenerateResource.cache
+\\Client\L$\CSharp - Repos\FilesAndFolderRetriever\FilesAndFolderRetriever\obj\Debug\FilesAndFolderRetriever.csproj.CoreCompileInputs.cache
+\\Client\L$\CSharp - Repos\FilesAndFolderRetriever\FilesAndFolderRetriever\obj\Debug\FilesAndFolderRetriever.exe
+\\Client\L$\CSharp - Repos\FilesAndFolderRetriever\FilesAndFolderRetriever\obj\Debug\FilesAndFolderRetriever.pdb
+\\Client\L$\CSharp - Repos\FilesAndFolderRetriever\FilesAndFolderRetriever\obj\Debug\FilesAndFolderRetriever.csproj.ResolveComReference.cache
