@@ -40,7 +40,7 @@ namespace FilesAndFolderRetriever
 
         public void addData(IEnumerable<FileInfo> files)
         {
-            int row = 1;
+            
                         
             xlWorksheet.Cells[1, 1] = "Full Name";
             xlWorksheet.Cells[1, 2] = "File Name";
@@ -51,19 +51,20 @@ namespace FilesAndFolderRetriever
             xlWorksheet.Cells[1, 7] = "Creation Time";
 
 
-            row = 2;
-            
-            Parallel.ForEach(files, file =>
-            {
-                xlWorksheet.Cells[row, 1] = file.FullName;
-                xlWorksheet.Cells[row, 2] = file.Name;
-                xlWorksheet.Cells[row, 3] = file.Length;
-                xlWorksheet.Cells[row, 4] = file.DirectoryName;
-                xlWorksheet.Cells[row, 5] = file.LastAccessTime;
-                xlWorksheet.Cells[row, 6] = file.LastWriteTime;
-                xlWorksheet.Cells[row, 7] = file.CreationTime;
+            Stack<int> rows = new Stack<int>(Enumerable.Range(1, files.Count()+1));
 
-                row++;
+            
+            Parallel.ForEach(files, myFile =>
+            {
+                int row = rows.Pop();
+                xlWorksheet.Cells[row, 1] = myFile.FullName;
+                xlWorksheet.Cells[row, 2] = myFile.Name;
+                xlWorksheet.Cells[row, 3] = myFile.Length;
+                xlWorksheet.Cells[row, 4] = myFile.DirectoryName;
+                xlWorksheet.Cells[row, 5] = myFile.LastAccessTime;
+                xlWorksheet.Cells[row, 6] = myFile.LastWriteTime;
+                xlWorksheet.Cells[row, 7] = myFile.CreationTime;
+                                
             });
             
         }       

@@ -14,7 +14,7 @@
         <Label x:Name="lblSaveTo" Content="Save to" HorizontalAlignment="Left" Height="25" Margin="18,81,0,0" VerticalAlignment="Top" Width="79" HorizontalContentAlignment="Left" FontWeight="Bold"/>
         <TextBox x:Name="txtSaveToPath" HorizontalAlignment="Left" Height="25" Margin="120,81,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="376" />
         <Button x:Name="btnStart" Content="Start" HorizontalAlignment="Left" Height="30" Margin="526,139,0,0" VerticalAlignment="Top" Width="102" Click="BtnStart_Click" FontWeight="Bold"/>
-        <ProgressBar x:Name="prgBar" HorizontalAlignment="Left" Height="21" VerticalAlignment="Top" Width="376" Margin="120,139,0,0"/>
+        <ProgressBar x:Name="prgBar" HorizontalAlignment="Left" Height="21" VerticalAlignment="Top" Width="376" Margin="120,139,0,0" SmallChange="1"/>
 
     </Grid>
 </Window>

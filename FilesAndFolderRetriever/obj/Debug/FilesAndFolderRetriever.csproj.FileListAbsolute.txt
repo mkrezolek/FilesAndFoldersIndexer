@@ -14,3 +14,19 @@
 \\Client\L$\CSharp - Repos\FilesAndFolderRetriever\FilesAndFolderRetriever\obj\Debug\FilesAndFolderRetriever.exe
 \\Client\L$\CSharp - Repos\FilesAndFolderRetriever\FilesAndFolderRetriever\obj\Debug\FilesAndFolderRetriever.pdb
 \\Client\L$\CSharp - Repos\FilesAndFolderRetriever\FilesAndFolderRetriever\obj\Debug\FilesAndFolderRetriever.csproj.ResolveComReference.cache
+C:\Users\macie\Source\Repos\FilesAndFoldersIndexer\FilesAndFolderRetriever\bin\Debug\FilesAndFolderRetriever.exe.config
+C:\Users\macie\Source\Repos\FilesAndFoldersIndexer\FilesAndFolderRetriever\bin\Debug\FilesAndFolderRetriever.exe
+C:\Users\macie\Source\Repos\FilesAndFoldersIndexer\FilesAndFolderRetriever\bin\Debug\FilesAndFolderRetriever.pdb
+C:\Users\macie\Source\Repos\FilesAndFoldersIndexer\FilesAndFolderRetriever\obj\Debug\FilesAndFolderRetriever.csprojAssemblyReference.cache
+C:\Users\macie\Source\Repos\FilesAndFoldersIndexer\FilesAndFolderRetriever\obj\Debug\FilesAndFolderRetriever.csproj.ResolveComReference.cache
+C:\Users\macie\Source\Repos\FilesAndFoldersIndexer\FilesAndFolderRetriever\obj\Debug\MainWindow.g.cs
+C:\Users\macie\Source\Repos\FilesAndFoldersIndexer\FilesAndFolderRetriever\obj\Debug\App.g.cs
+C:\Users\macie\Source\Repos\FilesAndFoldersIndexer\FilesAndFolderRetriever\obj\Debug\FilesAndFolderRetriever_MarkupCompile.cache
+C:\Users\macie\Source\Repos\FilesAndFoldersIndexer\FilesAndFolderRetriever\obj\Debug\FilesAndFolderRetriever_MarkupCompile.lref
+C:\Users\macie\Source\Repos\FilesAndFoldersIndexer\FilesAndFolderRetriever\obj\Debug\MainWindow.baml
+C:\Users\macie\Source\Repos\FilesAndFoldersIndexer\FilesAndFolderRetriever\obj\Debug\FilesAndFolderRetriever.g.resources
+C:\Users\macie\Source\Repos\FilesAndFoldersIndexer\FilesAndFolderRetriever\obj\Debug\FilesAndFolderRetriever.Properties.Resources.resources
+C:\Users\macie\Source\Repos\FilesAndFoldersIndexer\FilesAndFolderRetriever\obj\Debug\FilesAndFolderRetriever.csproj.GenerateResource.cache
+C:\Users\macie\Source\Repos\FilesAndFoldersIndexer\FilesAndFolderRetriever\obj\Debug\FilesAndFolderRetriever.csproj.CoreCompileInputs.cache
+C:\Users\macie\Source\Repos\FilesAndFoldersIndexer\FilesAndFolderRetriever\obj\Debug\FilesAndFolderRetriever.exe
+C:\Users\macie\Source\Repos\FilesAndFoldersIndexer\FilesAndFolderRetriever\obj\Debug\FilesAndFolderRetriever.pdb

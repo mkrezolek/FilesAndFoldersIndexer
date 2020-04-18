@@ -56,9 +56,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="\\Client\D%24\C# Classes\WriteToExcel.cs">
-      <Link>WriteToExcel.cs</Link>
-    </Compile>
+    <Compile Include="WriteToExcel.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
